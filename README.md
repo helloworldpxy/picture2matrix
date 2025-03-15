@@ -34,7 +34,8 @@ picture2matrix是一个简易的将图像文件转换为数学矩阵的桌面工
 
 ```bash
 # 安装依赖库
-`pip install pillow numpy`
+pip install pillow numpy
+```
 
 ## 贡献指南
 欢迎通过以下方式参与项目改进：
