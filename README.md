@@ -31,10 +31,11 @@ picture2matrix是一个简易的将图像文件转换为数学矩阵的桌面工
 - Python 3.7+
 - Pillow
 - NumPy
+- PyQt5
 
 ```bash
 # 安装依赖库
-pip install pillow numpy
+pip install pyqt5 numpy pillow
 ```
 
 ## 贡献指南
